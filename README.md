@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@FreeLaptopYojna 
-FreeLaptopYojna
-/
-UPFreeLaptopYojna.github.io-
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-UPFreeLaptopYojna.github.io-/laptopfrom.html
-@abhishekmishra06
-abhishekmishra06 Freelaptop
-Latest commit 92bb749 7 minutes ago
- History
- 1 contributor
-697 lines (645 sloc)  86.9 KB
-   
 
  <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="robots" content="max-image-preview:large"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="0"><title>Free-Laptops Yojana </title><meta name="title" content="UP Free Laptop Yojana Registration 2022"><link rel="preconnect dns-prefetch" href="https://s3-ap-southeast-1.amazonaws.com"><link rel="preconnect dns-prefetch" href="https://sync.targeting.unrulymedia.com"><link rel="preconnect dns-prefetch" href="https://bttrack.com"><link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" as="script"><link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script"><link rel="preload" href="https://static-af.asianetnews.com/v1/js/bootstrap.min.js" as="script"><link rel="preload" href="https://static-af.asianetnews.com/v1/js/custom-23dec20.js" as="script"><link rel="preload" href="https://platform.twitter.com/widgets.js" as="script"><link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js" as="script"><link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/topojson/1.6.20/topojson.min.js" as="script"><link rel="preload" href="https://static-af.asianetnews.com/v1/js/plugin.js" as="script"><link rel="preload" href="https://static-af.asianetnews.com/v1/js/plugin.js" as="script"><link rel="preload" href="https://static-af.asianetnews.com/v1/fonts/roboto-webfont/roboto-font-files/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static-af.asianetnews.com/v1/fonts/fontawesome-webfont.woff2?v=4.7.0" as="font" type="font/woff2" crossorigin><link rel="preload" href="https://static-af.asianetnews.com/v1/fonts/source-sans-pro/6xK3dSBYKcSV-LCoeQqfX1RYOo3qOK7lujVj9w.woff2" as="font" type="font/woff2" crossorigin><link href="https://static-af.asianetnews.com/v1/css/bootstrap.min.css" rel="stylesheet"><link rel="preload" href="https://static-af.asianetnews.com/v1/css/main.css" as="style"><link href="https://static-af.asianetnews.com/v1/css/style.css" rel="preload stylesheet" as="style"><link href="https://static-af.asianetnews.com/v1/css/category.css" rel="preload stylesheet" as="style"><link href="https://static-af.asianetnews.com/v1/css/font-awesome.min.css" rel="preload stylesheet" as="style"><link href="https://static-af.asianetnews.com/v1/css/login-2020/login.css" rel="stylesheet"><link href="https://static-af.asianetnews.com/v1/css/owl.carousel.css" rel="stylesheet"><link href="https://static-af.asianetnews.com/v1/css/owl.theme.default.min.css" rel="stylesheet"><link href="https://static-af.asianetnews.com/v1/css/asianet-free.css?v1" rel="stylesheet"><link href="https://static-af.asianetnews.com/v1/css/font.css" rel="preload stylesheet" as="style"><link rel="canonical" href="https://www.free.com/india-news/fake-beware-free-modi-laptops-solar-panel-giving-websites-psh2hp"><link rel="amphtml" href="https://www.free.com/amp/india-news/fake-beware-free-modi-laptops-solar-panel-giving-websites-psh2hp"><meta name="description" content="For instance, http://solor-panel.sarkaari-yojana.in/# is a link that straightaway takes you to a page that has Prime Minister Narendra Modi's photo on top with a solar panel on his back. &quot;Pradhanmantri Free Solar Panel Yojna&quot; is written along with it. Just below that, it reads, &quot;By the order of the Government of India&quot;"><meta name="keywords" content="Sarkari websites,Modi laptops,solar panel,Make in India,IIT Kanpur,free laptops,free solar panels,Narendra Modi,PM Modi"><meta name="news_keywords" content="Sarkari websites,Modi laptops,solar panel,Make in India,IIT Kanpur,free laptops,free solar panels,Narendra Modi,PM Modi"><meta property="og:title" content="UP Free Laptop Yojana Registration 2022"><meta property="og:description" content="For instance, http://solor-panel.sarkaari-yojana.in/# is a link that straightaway takes you to a page that has Prime Minister Narendra Modi's photo on top with a solar panel on his back. &quot;Pradhanmantri Free Solar Panel Yojna&quot; is written along with it. Just below that, it reads, &quot;By the order of the Government of India&quot;
     "><meta property="og:site_name" content="Asianet News Network Pvt Ltd"><meta property="og:type" content="article"><meta property="category" content="News"> <meta property="author" content="aprameya.c"><meta property="og:image" content="https://static-ai.asianetnews.com/images/01dcc3tpww5w1wbtdtbk4tknw8/Fake-websites_1200x630xt.jpg"><meta name="twitter:image" content="https://static-ai.asianetnews.com/images/01dcc3tpww5w1wbtdtbk4tknw8/Fake-websites.jpg"><meta property="og:image:width" content="630"><meta property="og:image:height" content="473"><meta property="og:url" content="https://www.free.com/india-news/fake-beware-free-modi-laptops-solar-panel-giving-websites-psh2hp"><meta property="fb:pages" content="203344453629379"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:site" content="@Free"><meta name="twitter:title" content="UP Free Laptop Yojana Registration 2022"><meta name="twitter:url" content="https://www.free.com/india-news/fake-beware-free-modi-laptops-solar-panel-giving-websites-psh2hp"><meta name="twitter:description" content="For instance, http://solor-panel.sarkaari-yojana.in/# is a link that straightaway takes you to a page that has Prime Minister Narendra Modi's photo on top with a solar panel on his back. &quot;Pradhanmantri Free Solar Panel Yojna&quot; is written along with it. Just below that, it reads, &quot;By the order of the Government of India&quot;
